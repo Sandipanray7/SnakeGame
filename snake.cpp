@@ -97,8 +97,6 @@ int main(){
 		}
 
 
-
-
 		//drawing
 		ClearBackground(green);
 		food.Draw();
