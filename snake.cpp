@@ -1,6 +1,8 @@
-#include <deque>
+//g++ snake.cpp -o snake $(pkg-config --cflags --libs raylib)
+//./snake
 #include <iostream>
 #include <raylib.h>
+#include <deque>
 #include <raymath.h>
 using namespace std;
 Color green = {173, 210, 96, 255};
